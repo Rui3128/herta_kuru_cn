@@ -1,4 +1,4 @@
-# 转圈圈\~
+# 黑塔转圈圈\~
 
 [网站](https://mihoyo.zip/hsr/Herta_kuru/)
 
